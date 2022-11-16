@@ -3,6 +3,6 @@ class new
 bye
 }
 
-hii prirti how are you....
+hii priti how are you....
 
 
